@@ -7,5 +7,10 @@ namespace ReporteFinancieroBus
         public void CrearCalculosDeComision() { }
 
         public void CrearCalculosDeRedondeo() { }
+
+        public void CrearCalculosAdultoMayor() { }
+
+
+        public void CrearCalculosDeBecados() { }
     }
 }
