@@ -5,7 +5,5 @@ namespace ReporteFinancieroBus
     {
         public void ObtenerDatos() { }
         public void CrearCalculosDeComision() { }
-
-        public void CrearCalculosDeRedondeo() { }
     }
 }
