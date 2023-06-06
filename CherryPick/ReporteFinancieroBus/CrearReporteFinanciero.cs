@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReporteFinancieroBus
 {
-    internal class Class1
+    internal class CrearReporteFinanciero
     {
     }
 }
